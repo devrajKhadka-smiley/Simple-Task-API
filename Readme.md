@@ -1,12 +1,15 @@
-# Task API
-Hello this is me SYE
+## Personal Note API
+A  simple RESTful API to manage personal notes (e.g., titles and content) using Node.js and Expres
 
-## How To SetUp
+### How To Setup the Program
+1. Install the Modules that require to run the project
+    
+        npm install express, cors, nodemon
 
-navigate to "__TASKAPI/src__" and
+2. Then head over to the directory "__PERSONAL_NOTE_API/src__". Then
 
-        npm install express, cors
+        node --watch node.app
 
-and again type
-
-        node --watch app.js
+### Test API ENDPOINTS
+Folder strucutre and Test are done in PostMan</br>
+![Folder Structure](/src/Assets/image.png)
