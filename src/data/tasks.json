@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Complete Assignment",
+      "description": "Finish the Node.js project",
+      "status": "incomplete"
+    },
+    {
+      "name": "Node 1 Project",
+      "description": "Personal Note API",
+      "status": "DOING",
+      "id": 2
+    },
+    {
+      "name": "Complete Assignment",
+      "description": "Finish the Node.js project",
+      "status": "Fully-Completed",
+      "id": 3
+    }
+  ]
+}
