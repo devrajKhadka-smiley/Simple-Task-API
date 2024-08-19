@@ -12,4 +12,4 @@ A  simple RESTful API to manage personal notes (e.g., titles and content) using 
 
 ### Test API ENDPOINTS
 Folder strucutre and Test are done in PostMan</br>
-![Folder Structure](/src/Assets/image.png)
+![Folder Structure](/src/Assets/folder_Structure.png)
