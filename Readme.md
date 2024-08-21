@@ -8,7 +8,11 @@ The Simple Task API is a RESTful service that allows users to manage tasks. It p
 
 2. Then head over to the directory "__Task_API/src__". Then
 
-        node --watch node.app
+        node --watch app.js
+
+3. Or can even use
+        
+        node app.js
 
 ### Test API ENDPOINTS
 * Get all notes: `api/tasks`
