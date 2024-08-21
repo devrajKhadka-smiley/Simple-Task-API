@@ -7,7 +7,7 @@
       "status": "incomplete"
     },
     {
-      "name": "Node 1 Project",
+      "name": "Node 1st Project",
       "description": "Personal Note API",
       "status": "DOING",
       "id": 2
@@ -15,7 +15,7 @@
     {
       "name": "Complete Assignment",
       "description": "Finish the Node.js project",
-      "status": "Fully-Completed",
+      "status": "Completed",
       "id": 3
     }
   ]

@@ -1,15 +1,22 @@
-## Personal Note API
-A  simple RESTful API to manage personal notes (e.g., titles and content) using Node.js and Expres
+## Task API
+The Simple Task API is a RESTful service that allows users to manage tasks. It provides endpoints to create, retrieve, update, and delete tasks, with additional features such as task status updates and task filtering.
 
 ### How To Setup the Program
 1. Install the Modules that require to run the project
     
         npm install express, cors, nodemon
 
-2. Then head over to the directory "__PERSONAL_NOTE_API/src__". Then
+2. Then head over to the directory "__Task_API/src__". Then
 
         node --watch node.app
 
 ### Test API ENDPOINTS
-Folder strucutre and Test are done in PostMan</br>
-![Folder Structure](/src/Assets/folder_Structure.png)
+* Get all notes: `api/tasks`
+* Get a Note By ID: `api/tasks/:id`
+* Add Note: `api/tasks`
+* Update a Note: `api/tasks/:id`
+* Delete a Note: `api/tasks/:id`
+
+### Postman URL and Body Request
+
+        http://localhost:3000/api/tasks
